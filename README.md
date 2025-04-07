@@ -39,6 +39,10 @@ You can replicate our experiments, generate figures and tables used in the manus
 
 2 In every `PATH_TO_ROOT` part of the code, please manually replace the placeholder with the actual path where you downloaded this repository on your local machine.
 
+3 It is recommended to use a **Windows system** whenever possible, as some libraries (e.g., LightGBM) may raise architecture-related errors on macOS.
+
+---
+
 
 
 ### Citation
